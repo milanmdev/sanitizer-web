@@ -8,24 +8,24 @@
     "start": "next start"
   },
   "dependencies": {
-    "@aero/sanitizer": "^1.2.0",
-    "@chakra-ui/react": "^1.7.2",
-    "@emotion/react": "^11",
-    "@emotion/styled": "^11",
+    "@aero/sanitizer": "1.2.0",
+    "@chakra-ui/react": "1.7.2",
+    "@emotion/react": "11.7.0",
+    "@emotion/styled": "11.6.0",
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
     "@fortawesome/free-brands-svg-icons": "^5.15.4",
     "@fortawesome/free-regular-svg-icons": "^5.15.4",
     "@fortawesome/free-solid-svg-icons": "^5.15.4",
     "@fortawesome/react-fontawesome": "0.1.16",
-    "framer-motion": "^4",
+    "framer-motion": "4.1.17",
     "next": "latest",
-    "react": "^17.0.2",
-    "react-alert": "^7.0.3",
-    "react-dom": "^17.0.2"
+    "react": "17.0.2",
+    "react-alert": "7.0.3",
+    "react-dom": "17.0.2"
   },
   "devDependencies": {
-    "autoprefixer": "^10.2.6",
-    "postcss": "^8.3.5",
-    "tailwindcss": "^2.2.4"
+    "autoprefixer": "10.4.0",
+    "postcss": "8.4.4",
+    "tailwindcss": "2.2.19"
   }
 }
